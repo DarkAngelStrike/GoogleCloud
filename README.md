@@ -1,8 +1,7 @@
 # GoogleCloud
 
-##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##
-## fdisk.sh
-##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##--~~##
+fdisk.sh
+--------
 
 Can handle "Red Hat 7" who as "CentOS 7" uses XFS by default for the root partition.
 
